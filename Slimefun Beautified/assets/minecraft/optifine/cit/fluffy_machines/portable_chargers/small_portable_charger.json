@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/fluffy_machines/upgraded_explosive_shovel"
+        "layer0": "items/fluffy_machines/portable_chargers/small_portable_charger"
     },
 	"display": {
 		"thirdperson_righthand": {

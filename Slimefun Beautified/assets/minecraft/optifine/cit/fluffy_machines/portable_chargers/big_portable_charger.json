@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/fluffy_machines/upgraded_netherite_lumber_axe"
+        "layer0": "items/fluffy_machines/portable_chargers/big_portable_charger"
     },
 	"display": {
 		"thirdperson_righthand": {

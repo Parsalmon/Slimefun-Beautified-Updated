@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "items/fluffy_machines/scythe"
+        "layer0": "items/fluffy_machines/tools/diamond_paxel"
     },
 	"display": {
 		"thirdperson_righthand": {
